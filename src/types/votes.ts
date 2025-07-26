@@ -1,4 +1,3 @@
-// src/types/votes.ts
 export interface Votes {
   good: number;
   neutral: number;
